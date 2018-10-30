@@ -1,0 +1,5 @@
+print('=========== Desafio 03 ===========')
+numero_1 = input('Digite o primerio número = ')
+numero_2 = input('Digite o segundo número = ')
+resultado = int(numero_1) + int(numero_2)
+print('A soma é:',resultado)

@@ -1,0 +1,7 @@
+print('=========== Desafio 02 ===========')
+print('Oi! Tudo bem prazer meu nome é Boot.')
+nome = input('Qual é o seu nome = ')
+dia  = input('Você nasceu em que dia = ')
+mes  = input('Qual foi o mês = ')
+ano  = input('E qual foi o ano = ')
+print(nome,' você nasceu no dia ',dia,' de ',mes,' de ',ano,' . Correto?')
